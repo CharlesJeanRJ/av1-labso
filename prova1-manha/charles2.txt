@@ -1,0 +1,11 @@
+charles1.txt
+charles21
+charles2.txt
+charles3.txt
+grepdata.txt
+instrucoes.txt
+log
+pasta1
+pasta2
+pasta3
+prova1-charles.txt
